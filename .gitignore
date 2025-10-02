@@ -1,0 +1,39 @@
+# Virtual environments
+.venv/
+.venv*/
+venv/
+env/
+.venv310/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files (can get large)
+models/*.h5
+models/*.hdf5
+models/*.pb
+models/*.tflite
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Test images / outputs
+digit.png
+
+# IDE / editor configs
+.vscode/
+.idea/
+
+# Build/packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
