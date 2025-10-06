@@ -1,9 +1,7 @@
-print("Hello!")
 import numpy as np
 import matplotlib
 matplotlib.use("Agg")  # use non-GUI backend
 import matplotlib.pyplot as plt
-
 import matplotlib.pyplot as plt
 from tensorflow import keras
 from tensorflow.keras.datasets import mnist
