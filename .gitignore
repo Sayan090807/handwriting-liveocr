@@ -37,3 +37,6 @@ dist/
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+#training images
+*.png
